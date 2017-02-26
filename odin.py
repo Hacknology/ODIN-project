@@ -22,7 +22,7 @@ def yeni1():
     
     label = Label(master=pencere2, text="""TEŞEKKÜR:
 Öncelikle proje sırasında sabrını gösteren kullanıcılara içten teşekkürlerimi sunarım. \n Burda herkesin ismini tek tek yazamayacağım fakat
-destekleri için başlıca xdebron, Par4d0x1D, Black Viking, 'sadak4t, RAUN, UNEQUAL \n Tasarımlar için stokw ve duman05 olmak üzere herkese derin teşekkürlerimi ve sevgilerimi sunuyorum""",
+destekleri için başlıca xdebron, Par4d0x1D, Black Viking, 'sadak4t,  UNEQUAL \n Tasarımlar için stokw ve duman05 olmak üzere herkese derin teşekkürlerimi ve sevgilerimi sunuyorum""",
                   
                   fg="white",
                   bg="#000000",
